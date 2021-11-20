@@ -5,3 +5,4 @@ colorama
 art
 dhooks
 pystyle
+cx_Freeze
